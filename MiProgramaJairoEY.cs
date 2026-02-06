@@ -4,7 +4,12 @@ namespace PracticaCVJairoEY
     {
       static void Main(string[] args)
       {
-        Console.Writeline("Hola mundo");
+          // CONSTANTES
+          // VARIABLES – RECURSOS
+          // INICIALIZACIÓN
+          // ENTRADA
+          // PROCESO
+          // SALIDA
       }
     }
 }
